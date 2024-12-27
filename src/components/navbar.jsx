@@ -5,7 +5,7 @@ function Navbar() {
   return (
     <nav className="flex items-center justify-between py-6">
       <div className="flex flex-shrink-0 items-center">
-        <a href="/" aria-label="Home">
+        <a href="/Portfolio" aria-label="Home">
           <img src={logo1} alt="Logo" width={100} height={100} className="rounded-full"/>
         </a>
       </div>
